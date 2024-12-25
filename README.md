@@ -3,18 +3,19 @@
 **ciphergui.py**
 
 Untuk tugas GUI Caesar Cipher ini cara kerjanya:
-**untuk melakukan enkripsi**
 
+**untuk melakukan enkripsi**
 - Di kolom Teks Asli (Plaintext), ketikkan teks yang ingin Anda enkripsi
 - Di kolom Nilai Pergeseran (Shift), masukkan angka untuk menentukan jumlah pergeseran alfabet.
 - Tekan tombol Enkripsi.
 - Hasil enkripsi akan muncul di kolom Teks Terenkripsi (Ciphertext).
-**untuk melakukan dekripsi**
   
+**untuk melakukan dekripsi**
 - Di kolom Teks Terenkripsi (Ciphertext), ketikkan teks yang ingin Anda dekripsi
 - Di kolom Nilai Pergeseran (Shift), masukkan angka untuk menentukan jumlah pergeseran alfabet.
 - Tekan tombol Dekripsi.
 - Hasil Dekripsi akan muncul di kolom Teks Asli (Plaintext).
+
 
 
 **desgui.py**
@@ -36,12 +37,12 @@ Untuk tugas GUI Stegano ini cara kerjanya:
 - Masukkan pesan yang ingin disembunyikan dalam kotak dialog input.
 - Setelah memasukkan pesan, pilih lokasi untuk menyimpan gambar baru yang sudah berisi pesan tersembunyi. Anda bisa menyimpan file dengan format .png, .jpg, dll. Anda juga harus mengisi name untuk file yang akan disimpan.
 - Jika berhasil, akan muncul kotak dialog dengan pesan sukses dan lokasi file yang tersimpan.
-**Tampilkan Pesan**
   
+**Tampilkan Pesan**
 - Klik tombol Tampilkan Pesan.
    Pilih gambar yang memiliki pesan tersembunyi (format yang didukung: .jpg, .jpeg, .png, .gif).
 - Jika pesan tersembunyi ditemukan, akan muncul kotak dialog yang menampilkan pesan tersebut.
 - Jika tidak ada pesan tersembunyi dalam gambar, aplikasi akan memberi tahu bahwa tidak ditemukan pesan.
-**Keluar**
   
+**Keluar**
 - Klik tombol Keluar untuk menutup aplikasi.
